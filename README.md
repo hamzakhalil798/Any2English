@@ -18,21 +18,14 @@ The Multi-Lingual Video Dubber is a powerful tool designed to dub videos in vari
 4. **Lip Synchronization**: Wav2Lip, a lip synchronization model, is used to sync the generated English speech with the input video, ensuring that the dubbed video's lip movements match the spoken words.
 
 
-## Requirements
-
-Due to resource-intensive processes, the current version supports only small videos. To use the tool, follow these steps:
-
-1. Upload your video and audio files to Google Drive.
-2. Use the provided notebook on Google Colab.
-3. Follow the easy steps outlined in the notebook to generate the English-dubbed video with lip sync.
 
 ## Usage
+Due to resource-intensive processes, the current version supports only small videos. To use the tool, follow these steps:
 
-To use this tool, simply follow these steps:
 
-1. Clone this repository to your local machine or access the notebook on Google Colab.
-2. Upload your video and audio files to your Google Drive.
-3. Open the provided notebook and follow the instructions for dubbing your video.
+1. Upload the repo to your Google Drive.
+2. Upload your input video files to the drive.
+3. Open the provided notebook (any2English.ipynb) in Google Colab and follow easy outlined instructions for dubbing your video.
 
 
 ## Results
