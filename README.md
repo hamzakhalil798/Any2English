@@ -37,8 +37,29 @@ To use this tool, simply follow these steps:
 
 ## Results
 
-<iframe src="https://raw.githubusercontent.com/hamzakhalil798/Any2English/main/sample_Videos/video_1.mp4" width="640" height="480"></iframe>
 
+**Input**
+
+
+https://github.com/hamzakhalil798/Any2English/assets/103629235/191d8e6d-43ff-46d5-9893-92079d7c8c02
+
+
+
+
+
+https://github.com/hamzakhalil798/Any2English/assets/103629235/9d8926c7-a39e-48c3-8237-72018d666529
+
+
+
+
+**Output**
+
+
+https://github.com/hamzakhalil798/Any2English/assets/103629235/988bb82b-6c18-4453-b2b5-194bbf03b0c1
+
+
+
+https://github.com/hamzakhalil798/Any2English/assets/103629235/bc4d49f1-db23-41e6-b453-c18215873539
 
 
 ## Acknowledgements
@@ -50,4 +71,11 @@ To use this tool, simply follow these steps:
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or want to add new features, feel free to open a pull request.
+
+
+## TODOs
+
+- [ ] Allow bigger video files to be uploaded
+- [ ] Dub into other languages
+
 
