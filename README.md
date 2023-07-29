@@ -1,6 +1,6 @@
 # Any2English -  Multi-Lingual Video to English Dub with Lip Sync
 
-
+This project is made in collaboration with [@waleed-27](https://github.com/waleed-27)
 
 ## Overview
 
